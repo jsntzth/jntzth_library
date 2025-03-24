@@ -1,4 +1,4 @@
-# jntzth_library
+# jsntzth_library
 Code template
 想要上传脚本，在lssues中说你要上传脚本，我可以把你拉到团队里
 上传要求：
